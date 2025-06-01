@@ -12,6 +12,7 @@
 #include <vector>
 #include <map>
 #include <string>
+#include <cstdint>
 
 #include "MyGUI_Align.h"
 #include "MyGUI_TPoint.h"
